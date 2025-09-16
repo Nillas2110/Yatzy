@@ -1,2 +1,2 @@
 # Yatzy
-Yatzy projekt skabt ved brug a "Javascript"
+16-09-2025: Yatzy projekt skabt ved brug a "Javascript"
